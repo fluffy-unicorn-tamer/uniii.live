@@ -2,7 +2,7 @@
 </script>
 
 <main>
-  <h1>Welcome to uniii's website</h1>
+  <h1 class="m-8">Welcome to uniii's website</h1>
   <p>This site is still under construction. Meanwhile check out my socials blow.</p>
   <a href="https://www.twitch.tv/uniiilive" target="_blank" rel="noreferrer">Twitch</a>
   <a href="https://www.twitch.tv/uniiilive" target="_blank" rel="noreferrer">YouTube</a>
